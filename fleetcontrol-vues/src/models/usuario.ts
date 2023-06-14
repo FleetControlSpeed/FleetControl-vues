@@ -1,4 +1,4 @@
-import { AbstractEntity } from "./abstrac-tentity"
+import { AbstractEntity } from "./abstract-entity"
 import { Cargo } from "./enuns/cargo"
 
 export class Usuarios extends AbstractEntity{

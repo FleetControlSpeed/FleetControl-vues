@@ -1,4 +1,4 @@
-import { AbstractEntity } from "./abstrac-tentity"
+import { AbstractEntity } from "./abstract-entity"
 
 export class Empresas extends AbstractEntity{
     nome!: string

@@ -1,4 +1,4 @@
-import { AbstractEntity } from "./abstrac-tentity"
+import { AbstractEntity } from "./abstract-entity"
 import { Cor } from "./enuns/cor"
 import { Tipo } from "./enuns/tipo"
 import { Modelo } from "./modelo"
